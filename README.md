@@ -1,7 +1,7 @@
 # Introduction to Data Science workshop
 ## Medical Cost Prediction Model
 
-This repository contains the source code for a project built during a data science workshop hosted by Zaka AI on March 1, 2025.
+This repository contains the source code for a project built during a 1 hour hands-on data science workshop hosted by Zaka AI on March 1, 2025.
 The project is an implementation of an AI model, linear regression, to predict costs of medical treatment for individuals based on their age, sex, BMI and other personal information that could pertain to their health.
 
 ## Data Science Life Cycle
@@ -19,4 +19,4 @@ Code (with blanks) on Google Colab can be found here: https://colab.research.goo
 
 Full code on Google Colab can be found here: https://colab.research.google.com/drive/1iOrpVg4mJ-1yydAEMCLy4hCDIu9B32i3
 
-To edit the code, click **File** then **Save a copy in Drive...
+To edit the code, click **File** then **Save** a copy in Drive...
